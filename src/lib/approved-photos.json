@@ -1,0 +1,9 @@
+{
+  "hero": false,
+  "classroom": false,
+  "about": false,
+  "infants": false,
+  "toddlers": false,
+  "preschool": false,
+  "school-age": false
+}
